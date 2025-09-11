@@ -23,3 +23,20 @@ I have **already completed a single-cycle core**, and this project continues tha
 8. **Documentation & Cleanup** – Finalize code comments and README updates.
 
 ## 📂 File Structure  
+├── single_cycle/ # Completed single-cycle implementation
+├── pipeline/ # Pipelined implementation (in progress)
+├── testbench/ # Testbenches for verification
+└── README.md # Project description and progress
+## 🛠 Tools & Environment  
+- **HDL**: Verilog  
+- **Simulator**: Vivado/ModelSim or similar  
+- **ISA**: RISC-V RV32I  
+
+## 📌 Future Work  
+- Add branch prediction for improved control hazard performance.  
+- Explore additional RISC-V extensions or more advanced pipeline optimizations.  
+
+---
+
+🚀 *This project documents my journey: from a working single-cycle core to a fully pipelined RISC-V processor following the planned schedule.*  
+
