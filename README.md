@@ -23,10 +23,12 @@ I have **already completed a single-cycle core**, and this project continues tha
 8. **Documentation & Cleanup** – Finalize code comments and README updates.
 
 ## 📂 File Structure  
-├── single_cycle/ # Completed single-cycle implementation
-├── pipeline/ # Pipelined implementation (in progress)
-├── testbench/ # Testbenches for verification
-└── README.md # Project description and progress
+
+- `single_cycle/` — Completed single-cycle implementation  
+- `pipeline/` — Pipelined implementation (in progress)  
+- `testbench/` — Testbenches for verification  
+- `README.md` — Project description and progress
+
 ## 🛠 Tools & Environment  
 - **HDL**: Verilog  
 - **Simulator**: Vivado/ModelSim or similar  
